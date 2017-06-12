@@ -3,6 +3,7 @@ This repository is a good and basic starter project for any web project that use
 
 ## What do i need to use this setup?
 You need nodejs, npm and webpack-dev-server. Installing Node will also install npm, but you need to install npm globally.
-node:                   https://nodejs.org/en/
-npm:                    npm install npm@latest -g
-webpack-dev-server:     npm install webpack-dev-server -g
+
+1. node:                   (https://nodejs.org/en/)
+2. npm:                    npm install npm@latest -g
+3. webpack-dev-server:     npm install webpack-dev-server -g
