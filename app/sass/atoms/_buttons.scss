@@ -1,0 +1,14 @@
+.randomInt,
+.randomRange{
+  border: 1px solid black;
+  color: white;
+  padding: 5px;
+}
+
+.randomInt{
+  background-color: $color-main;
+}
+
+.randomRange{
+  background-color: $color-secondary;
+}
